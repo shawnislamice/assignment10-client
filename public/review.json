@@ -1,0 +1,32 @@
+[
+  {
+    "customerName": "Emily Johnson",
+    "photo": "https://i.ibb.co/vXhX2Ld/Emily-Johnson-Profile.jpg",
+    "rating": 5,
+    "description": "Absolutely loved my trip! The destination was breathtaking, and the activities were well-planned. Can't wait to book another adventure with this website."
+  },
+  {
+    "customerName": "Alex Thompson",
+    "photo": "https://i.ibb.co/s5V42GQ/Alex-Thompson.jpg",
+    "rating": 4,
+    "description": "Had a fantastic experience exploring new cultures and cuisines. The tour guides were knowledgeable and friendly. Highly recommend!"
+  },
+  {
+    "customerName": "Sarah Lee",
+    "photo": "https://i.ibb.co/jM0DcfB/Advisor-Sarah-Lee-1x1.png",
+    "rating": 5,
+    "description": "This was the best vacation I've ever had! The accommodations were top-notch, and the itinerary was perfectly balanced. Thank you for an unforgettable trip!"
+  },
+  {
+    "customerName": "David Miller",
+    "photo": "https://i.ibb.co/xJ5hK5Z/Getty-Images-690014708-e1520010225525.webp",
+    "rating": 3,
+    "description": "Overall, a good experience. Some aspects could have been improved, but the customer service was excellent."
+  },
+  {
+    "customerName": "Sophia Chen",
+    "photo": "https://i.ibb.co/Jp4vyLr/1616795833581.jpg",
+    "rating": 5,
+    "description": "Wonderful tour! Everything was well-organized, and the local guides were passionate about sharing their knowledge. Highly recommended."
+  }
+]
